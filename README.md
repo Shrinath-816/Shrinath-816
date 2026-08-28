@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build **highly scalable backend systems and intelligent applications**.<br><br>My engineering sits at the intersection of **Java, distributed systems, backend architecture, APIs, and event-driven design** — with a growing focus on **LLMs, RAG, agentic AI, and production-grade AI applications**.<br><br>I care about the engineering beneath the surface: **scalability, reliability, maintainability, performance, and failure** — whether I’m building a distributed payment system or an AI system that has to operate in the real world.<br><br>**Design deep. Build for scale. Ship what lasts.**<br>
+I build **highly scalable backend systems and intelligent applications**.<br><br>My engineering sits at the intersection of **Java, distributed systems, backend architecture, APIs and event-driven design** with a growing focus on **LLMs, RAG, agentic AI and production-grade AI applications**.<br><br>I care about the engineering beneath the surface: **scalability, reliability, maintainability, performance and failure** — whether I’m building a distributed payment system or an AI system that has to operate in the real world.<br><br>**Design deep. Build for scale. Ship what lasts.**<br>
 
 
 ## 🌐 Socials:
